@@ -1,0 +1,26 @@
+{
+    "name": "noneck-senpai",
+    "displayName": "NoNeck Senpai",
+    "description": "",
+    "publisher": "techquest",
+    "galleryBanner": {
+        "color": "#A21A43"
+    },
+    "icon": "assets/icon.png",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NoNeck Senpai Classic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NoNeck Senpai Classic-color-theme.json"
+            }
+        ]
+    }
+}
