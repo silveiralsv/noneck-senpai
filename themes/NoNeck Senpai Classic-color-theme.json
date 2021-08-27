@@ -190,6 +190,13 @@
       }
     },
     {
+      "name": "property-name",
+      "scope": "variable.other.property",
+      "settings": {
+        "foreground": "#ffffffc4"
+      }
+    },
+    {
       "name": "math property js/ts",
       "scope": "support.constant.property.math",
       "settings": {
@@ -2090,7 +2097,7 @@
     "minimap.selectionHighlight": "#612c3d",
     "minimap.errorHighlight": "#ff5185",
     "minimap.warningHighlight": "#cca700",
-    "minimap.background": "#5b697f",
+    "minimap.background": "#24292e",
     "sideBar.dropBackground": "#a21a432c",
     "editorGroup.emptyBackground": "#24292e",
     "panelSection.border": "#a21a43",

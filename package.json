@@ -2,12 +2,16 @@
     "name": "noneck-senpai",
     "displayName": "NoNeck Senpai",
     "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/silveiralsv/noneck-senpai.git"
+    },
     "publisher": "techquest",
     "galleryBanner": {
         "color": "#A21A43"
     },
     "icon": "assets/icon.png",
-    "version": "1.0.1",
+    "version": "1.0.7",
     "engines": {
         "vscode": "^1.59.0"
     },
