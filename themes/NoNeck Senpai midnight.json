@@ -2031,7 +2031,7 @@
     "debugToolBar.background": "#141723",
     "debugToolBar.border": "#1a1d2b",
     "notifications.foreground": "#E7E7E7",
-    "notifications.background": "#11aa11",
+    "notifications.background": "#1a1d2b",
     "notificationToast.border": "#47474700",
     "notificationsErrorIcon.foreground": "#FF6D6D",
     "notificationsWarningIcon.foreground": "#FFD668",
